@@ -1,4 +1,4 @@
-# springboard
+# springboard Submissions
 
 |  | Module | Exercise|Github Link| Review Status |
 |:---|:---|:---|:---|:---|
