@@ -12,5 +12,5 @@
 | 8|10.1| Linear and Logistic Regression - Heights and Weights Using Logistic Regression| https://github.com/sim-patil/Heights-and-Weights-Using-Logistic-Regression | Passed|
 | 9|10.3| Machine Learning - Predicting Movie Ratings from Reviews Using Naive Bayes| https://github.com/sim-patil/Mini_Project_Naive_Bayes| Passed|
 | 10|16.2| Data Science at scale - Spark Mini-Project: Databricks edition| | Passed|
-| 11|17.1| Take-Home Challenge: Ultimate Technologies Inc.| https://github.com/sim-patil/ultimate_data_challenge|  |
+| 11|17.1| Take-Home Challenge: Ultimate Technologies Inc.| https://github.com/sim-patil/ultimate_data_challenge| Passed|
 | 12|17.1| Example Take-Home Challenge: Relax Inc.| https://github.com/sim-patil/relax_data_challenge|  Passed|
